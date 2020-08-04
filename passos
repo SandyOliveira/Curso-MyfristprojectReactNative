@@ -1,0 +1,27 @@
+Iniciar projeto
+
+>> npx react-native init myproject
+
+rodar o bundle
+>>npx react-native run-android
+>> react-native start
+
+Configurando o ambiente
+instale o editorConfig
+Instalar o eslint
+>> yarn add eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+>> npm install eslint-plugin-react@latest --save-dev
+>>yarn eslint --init
+>> yarn
+>>yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+**caso ocorra erros**
+>>yarn react-native start --reset-cache ou
+>> yarn react-native run-android
+
+
+Intalação do Reactotron
+Faça o download e instale
+>> yarn add reactotron-react-native
+
+Lidando com navegação
+>>yarn add react-navigation react-native-gesture-handler react-native-reanimated
