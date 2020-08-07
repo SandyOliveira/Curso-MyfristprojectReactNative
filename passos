@@ -32,3 +32,6 @@ Instalar StyledComponent
 Utilizar Icons
 >> yarn add react-native-vector-icons
 >> react-native link react-native-vector-icons
+
+Chamadas a API
+>> yarn add axios
