@@ -25,3 +25,10 @@ Faça o download e instale
 
 Lidando com navegação
 >>yarn add react-navigation react-native-gesture-handler react-native-reanimated
+
+Instalar StyledComponent
+>> yarn add styled-components
+
+Utilizar Icons
+>> yarn add react-native-vector-icons
+>> react-native link react-native-vector-icons
