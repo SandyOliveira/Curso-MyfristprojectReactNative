@@ -35,3 +35,6 @@ Utilizar Icons
 
 Chamadas a API
 >> yarn add axios
+
+Lib pra manter os dados salvos no cel
+>> yarn add @react-native-community/async-storage
