@@ -38,3 +38,6 @@ Chamadas a API
 
 Lib pra manter os dados salvos no cel
 >> yarn add @react-native-community/async-storage
+
+LIdando com PropTypes
+>> yarn add prop-types
