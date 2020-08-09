@@ -24,7 +24,7 @@ export default class Main extends Component {
   };
 
   static propTypes = {
-    navigation: PropTypes.shape({
+      navigation: PropTypes.shape({
       navigate: PropTypes.func,
     }).isRequired,
   };
